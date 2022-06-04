@@ -12,11 +12,11 @@
 	
     @yield('body')
 	
-    @include('includes.footer');
+    @include('includes.footer')
 	
 
 
-    @include('includes.js');
+    @include('includes.js')
    
 </body>
 </html>

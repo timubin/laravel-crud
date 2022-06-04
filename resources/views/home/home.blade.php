@@ -1,4 +1,4 @@
-@extends("master");
+@extends("master")
 @section('title')
 Home Page
 @endsection
